@@ -1,4 +1,5 @@
 # TRAA Midterm review (title) (h1)
+![TRAA LOGO](images/traa_logo.jpg)
 
 Simple overview of use/purpose.
 
