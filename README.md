@@ -21,8 +21,8 @@ cd to the directory of your choice, clone, and hack away!
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Dana Marin Garcia
+[FOL/DanaMarin](https://www.fanshaweonline.ca/d2l/lp/profile/profile_edit.d2l?ou=29533)
 
 ## License
 
