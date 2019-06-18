@@ -10,7 +10,7 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-Uses CSS3 and HTML5 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see [caniuse](https://caniuse.com/) for reference) Also using latest ES6/next, you should probably think about including Babel for transplitation (or an NPM script).
+Uses CSS3 and HTML5 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see [caniuse](https://caniuse.com/) for reference) Also using latest ES6/next, you should probably think about including [Babel](https://babeljs.io/) for transplitation (or an NPM script).
 
 ### Installing
 
@@ -35,5 +35,3 @@ Inspiration, code snippets, etc.
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-
-[link to Google!](http://google.com)
